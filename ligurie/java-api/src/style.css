@@ -1,0 +1,8 @@
+:root {
+  --main-color: black; /* définition */
+  --secondary-color: rgb(255, 99, 71);
+}
+body{
+     background: linear-gradient(135deg, #fdfbfb 0%, #ebedee 100%);
+
+}
